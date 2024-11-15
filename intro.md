@@ -8,6 +8,7 @@ In the top right corner, you’ll see a rocket icon. When you're on a lesson pag
 
 So, get mentally prepared, roll up your sleeves, and let's dive into some jargon! 🚀
 
+This is a practice website!!!!!!
 
 ```{tableofcontents}
 ```
